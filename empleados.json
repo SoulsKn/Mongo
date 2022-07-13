@@ -1,0 +1,10 @@
+{"_id":1,"nombre":"Claudio Calderon","rol":"Cocinero","datos":[{"pais":"Chile","rut":2.13044621E+07,"estado":"activo"}]}
+{"_id":2,"nombre":"Josue Qalquin","rol":"Chef Jefe","datos":[{"pais":"Chile","rut":2.14620062E+07,"estado":"activo"}]}
+{"_id":3,"nombre":"Olguin Marquez","rol":"Limpia Pisos","datos":[{"pais":"Chile","rut":1.20662066E+07,"estado":"activo"}]}
+{"_id":4,"nombre":"Abraham Vegas","rol":"Cocinero","datos":[{"pais":"Chile","rut":2.13071121E+07,"estado":"activo"}]}
+{"_id":5,"nombre":"Maximiliano Castillo","rol":"Cocinero","datos":[{"pais":"Chile","rut":2.10062061E+07,"estado":"activo"}]}
+{"_id":6,"nombre":"Polet Leiva","rol":"Mesera","datos":[{"pais":"Chile","rut":2.23024321E+07,"estado":"activo"}]}
+{"_id":7,"nombre":"Ignaci Hidalgo","rol":"Mesera","datos":[{"pais":"Chile","rut":2.12457121E+07,"estado":"vacaciones"}]}
+{"_id":8,"nombre":"Aracelli Hidalgo","rol":"Cajera","datos":[{"pais":"Chile","rut":2.13087922E+07,"estado":"activo"}]}
+{"_id":9,"nombre":"Ivette Nuñez","rol":"Mesera","datos":[{"pais":"Chile","rut":2.21241681E+07,"estado":"vacaciones"}]}
+{"_id":10,"nombre":"Aura Leiva","rol":"Mesera","datos":[{"pais":"Chile","rut":2.12345671E+07,"estado":"vacaciones"}]}

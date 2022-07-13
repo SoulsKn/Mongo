@@ -1,0 +1,1 @@
+mongoimport --db=agregacion --collection=ordenes --file=empleados.json
